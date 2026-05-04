@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Heta Men Helm Kbeer |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 05, 2026 |
+| Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/heta-men-helm-kbeer/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا روحي في ليل الشوق قلبي يناديك
+> بين صمت الليل ولهفة الروح ألاقيك
+> كل النجوم في السماء تهمس أغانينا
+> يا نور عيني في بحر الهوى أمانينا
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
