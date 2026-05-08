@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Heta Men Helm Kbeer
+
+This log tracks the cryptographic history and versioning for the song **Heta Men Helm Kbeer** (heta-men-helm-kbeer).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T18:53:07.533758 | `v1` | `b3133b4f1a9ceeb721fbe4a040adbf5ea0295c6651a45e15860eed2d13068a1c` | `31b212be42fdb0c09f5d078d1d1a7806c8b49655b461abb875a50a945bcc1bdf` | `2026-05-08_heta-men-helm-kbeer-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
